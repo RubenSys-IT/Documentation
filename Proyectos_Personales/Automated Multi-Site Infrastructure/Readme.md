@@ -21,6 +21,8 @@ Configuration of local BGP parameters (ASN, Router ID, advertised networks).
 Establishment of eBGP neighbor adjacencies across the WireGuard tunnel endpoints.
 
 📁 Repository Structure: https://github.com/RubenSys-IT/RubenSys_IT/tree/main/Proyectos_Personales/Automated%20Multi-Site%20Infrastructure
+
+
 🚀 Prerequisites & Requirements
 Control Node (Ansible)
 Ansible Core >= 2.10
