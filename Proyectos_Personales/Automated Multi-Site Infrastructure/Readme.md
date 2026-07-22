@@ -20,12 +20,7 @@ Configuration of local BGP parameters (ASN, Router ID, advertised networks).
 
 Establishment of eBGP neighbor adjacencies across the WireGuard tunnel endpoints.
 
-📁 Repository Structure
-Plaintext
-.
-├── deploy_WireGuard.yml  # Playbook for deploying the encrypted Overlay tunnel
-├── deploy_bgp.yml        # Playbook for provisioning eBGP via FRR REST API
-└── README.md             # Main repository documentation
+📁 Repository Structure: https://github.com/RubenSys-IT/RubenSys_IT/tree/main/Proyectos_Personales/Automated%20Multi-Site%20Infrastructure
 🚀 Prerequisites & Requirements
 Control Node (Ansible)
 Ansible Core >= 2.10
